@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Callum 👋
 
-<!--
-**cneeve/cneeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics graduate and former teacher transitioning into data analysis.
 
-Here are some ideas to get you started:
+I use SQL, Excel and Tableau to explore data, identify patterns and communicate insights. I'm based in London and looking for opportunities in data analysis, reporting and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SQL
+- Excel
+- Tableau
+- Python
+
+## Projects
+
+I'm currently building my data analysis portfolio. My projects will be added here as I complete them.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/callumneeve/)
