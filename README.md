@@ -2,13 +2,14 @@
 
 I'm a Mathematics graduate and former teacher transitioning into data analysis.
 
-I use SQL, Excel and Tableau to explore data, identify patterns and communicate insights. I'm based in London and looking for opportunities in data analysis, reporting and business intelligence.
+I use SQL, Excel, Tableau and Power BI to explore data, identify patterns and communicate insights. I'm based in London and looking for opportunities in data analysis, reporting and business intelligence.
 
 ## Skills
 
 - SQL
 - Excel
 - Tableau
+- Power BI
 - Python
 
 ## Projects
