@@ -17,11 +17,11 @@ I use SQL, Excel, Tableau and Power BI to explore data, identify patterns and co
 ### 🛒 E-Commerce Marketplace Analysis
 **SQL · PostgreSQL · Power BI**
 
-End-to-end analysis of Brazilian e-commerce marketplace data, exploring sales performance, customer behaviour, product performance and opportunities for improvement.
+End-to-end analysis of Brazilian e-commerce marketplace data, exploring sales performance, customer behaviour, delivery performance and seller performance.
 
-- Built and analysed a relational PostgreSQL database using joins, CTEs, window functions and date analysis
-- Created business KPIs and investigated trends across customers, products, sellers and orders
-- Built an interactive Power BI dashboard to communicate findings and recommendations
+- Built and analysed a relational PostgreSQL database using joins, CTEs, window functions and reusable views
+- Analysed **99K orders and R$13.59M in product revenue**, identifying delivery, customer and seller performance trends
+- Built an interactive five-page Power BI dashboard to communicate findings and business recommendations
 
 [View project →](https://github.com/cneeve/olist-ecommerce-analysis)
 
